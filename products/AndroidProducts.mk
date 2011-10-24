@@ -53,6 +53,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_solana.mk \
     $(LOCAL_DIR)/cyanogen_speedy.mk \
     $(LOCAL_DIR)/cyanogen_supersonic.mk \
+    $(LOCAL_DIR)/cyanogen_targa.mk \
     $(LOCAL_DIR)/cyanogen_v9.mk \
     $(LOCAL_DIR)/cyanogen_u8220.mk \
     $(LOCAL_DIR)/cyanogen_urushi.mk \
